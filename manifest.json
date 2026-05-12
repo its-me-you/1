@@ -1,0 +1,15 @@
+{
+  "name": "Bro & Raa — Love Vault 💕",
+  "short_name": "Love Vault",
+  "description": "A private vault for Bro and Raa's most beautiful moments together.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0E0008",
+  "theme_color": "#880E4F",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["lifestyle", "utilities"]
+}
